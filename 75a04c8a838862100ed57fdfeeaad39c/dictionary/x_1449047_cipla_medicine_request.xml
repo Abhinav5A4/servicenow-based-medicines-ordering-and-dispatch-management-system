@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="d7d1c84e838862100ed57fdfeeaad3d0" extends="task" label="Medicine Request" max_length="40" name="x_1449047_cipla_medicine_request" type="collection"/>
+</database>

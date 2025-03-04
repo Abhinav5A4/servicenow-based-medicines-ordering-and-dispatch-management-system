@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config">
+    <sys_sg_view_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <advanced>false</advanced>
+        <description/>
+        <name>Medicine Request List Screen View Config</name>
+        <scratchpad_script/>
+        <sys_class_name>sys_sg_view_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-04 02:07:09</sys_created_on>
+        <sys_id>6422808e838862100ed57fdfeeaad337</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Medicine Request List Screen View Config</sys_name>
+        <sys_package display_value="Cipla" source="x_1449047_cipla">75a04c8a838862100ed57fdfeeaad39c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Cipla">75a04c8a838862100ed57fdfeeaad39c</sys_scope>
+        <sys_update_name>sys_sg_view_config_6422808e838862100ed57fdfeeaad337</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-04 02:07:09</sys_updated_on>
+        <table>x_1449047_cipla_medicine_request</table>
+        <template display_value="Template 01">6bb0be5c41a71010f877183fc9b8be0c</template>
+    </sys_sg_view_config>
+    <sys_translated_text action="delete_multiple" query="documentkey=6422808e838862100ed57fdfeeaad337"/>
+</record_update>

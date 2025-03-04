@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element_attribute">
+    <sys_sg_view_config_element_attribute action="INSERT_OR_UPDATE">
+        <description/>
+        <name display_value="FieldValue">c2eed5c2b7321010df65f6efce11a9cf</name>
+        <sys_class_name>sys_sg_view_config_element_attribute</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-04 02:07:10</sys_created_on>
+        <sys_id>a422808e838862100ed57fdfeeaad35e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>c2eed5c2b7321010df65f6efce11a9cf</sys_name>
+        <sys_package display_value="Cipla" source="x_1449047_cipla">75a04c8a838862100ed57fdfeeaad39c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Cipla">75a04c8a838862100ed57fdfeeaad39c</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_attribute_a422808e838862100ed57fdfeeaad35e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-04 02:07:10</sys_updated_on>
+        <translated_value/>
+        <value>state</value>
+        <view_config_element display_value="state-FieldValue">6422808e838862100ed57fdfeeaad35c</view_config_element>
+    </sys_sg_view_config_element_attribute>
+    <sys_translated_text action="delete_multiple" query="documentkey=a422808e838862100ed57fdfeeaad35e"/>
+</record_update>
