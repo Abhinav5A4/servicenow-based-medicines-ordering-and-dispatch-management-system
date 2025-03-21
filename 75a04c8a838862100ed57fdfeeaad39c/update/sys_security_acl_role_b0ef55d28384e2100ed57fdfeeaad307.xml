@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-05 03:37:19</sys_created_on>
+        <sys_id>b0ef55d28384e2100ed57fdfeeaad307</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1449047_cipla_medicine_details.x_1449047_cipla.medicine_management</sys_name>
+        <sys_package display_value="Cipla" source="x_1449047_cipla">75a04c8a838862100ed57fdfeeaad39c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Cipla">75a04c8a838862100ed57fdfeeaad39c</sys_scope>
+        <sys_security_acl display_value="x_1449047_cipla_medicine_details">a158908a830c62100ed57fdfeeaad3d0</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_b0ef55d28384e2100ed57fdfeeaad307</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-05 03:37:19</sys_updated_on>
+        <sys_user_role display_value="x_1449047_cipla.medicine_management" name="x_1449047_cipla.medicine_management">07f0400e838862100ed57fdfeeaad3ab</sys_user_role>
+    </sys_security_acl_role>
+</record_update>

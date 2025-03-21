@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_reference_1" label="Medicine Name" language="en" table="x_1449047_cipla_medicine_request">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_reference_1</element>
+            <help/>
+            <hint/>
+            <label>Medicine Name</label>
+            <language>en</language>
+            <name>x_1449047_cipla_medicine_request</name>
+            <plural>Medicine Names</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-03-04 05:23:16</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Medicine Name</sys_name>
+            <sys_package display_value="Cipla" source="x_1449047_cipla">75a04c8a838862100ed57fdfeeaad39c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Cipla">75a04c8a838862100ed57fdfeeaad39c</sys_scope>
+            <sys_update_name>sys_documentation_x_1449047_cipla_medicine_request_u_reference_1_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-03-04 05:23:16</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

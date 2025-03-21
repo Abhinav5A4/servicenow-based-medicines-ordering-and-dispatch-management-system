@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="67d75c86830c62100ed57fdfeeaad3b1" extends="cmdb_ci" label="Medicine Details" max_length="40" name="x_1449047_cipla_medicine_details" type="collection">
+        <element attributes="omit_sys_original=true,serializer=com.glide.script.PriceXMLSerializer" label="Price" max_length="20" name="u_price_2" type="price"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Medicine Category" max_length="40" name="u_choice_1" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Pharmaceuticals" sequence="0" value="pharmaceuticals"/>
+                <element inactive_on_update="false" label="Consumer Health Products" sequence="1" value="consumer health products"/>
+                <element inactive_on_update="false" label="Generic Drugs" sequence="2" value="generic drugs"/>
+            </choice>
+        </element>
+    </element>
+</database>

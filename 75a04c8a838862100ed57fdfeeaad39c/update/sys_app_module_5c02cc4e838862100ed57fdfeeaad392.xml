@@ -18,24 +18,24 @@
         <query/>
         <report/>
         <require_confirmation>true</require_confirmation>
-        <roles/>
+        <roles>x_1449047_cipla.medicine_management</roles>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-03-04 02:06:36</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>5c02cc4e838862100ed57fdfeeaad392</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>Create New</sys_name>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Create New Medicine Request</sys_name>
         <sys_overrides/>
         <sys_package display_value="Cipla" source="x_1449047_cipla">75a04c8a838862100ed57fdfeeaad39c</sys_package>
         <sys_policy/>
         <sys_scope display_value="Cipla">75a04c8a838862100ed57fdfeeaad39c</sys_scope>
         <sys_update_name>sys_app_module_5c02cc4e838862100ed57fdfeeaad392</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-03-04 02:06:36</sys_updated_on>
+        <sys_updated_on>2025-03-05 04:05:11</sys_updated_on>
         <timeline_page/>
-        <title>Create New</title>
+        <title>Create New Medicine Request</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>

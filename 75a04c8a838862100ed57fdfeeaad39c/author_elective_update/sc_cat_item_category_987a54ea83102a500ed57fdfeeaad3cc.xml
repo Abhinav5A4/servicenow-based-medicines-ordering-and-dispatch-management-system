@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Order your Medicines">e50a5caa83102a500ed57fdfeeaad369</sc_cat_item>
+        <sc_category display_value="Tablets">b06546f23731300054b6a3549dbe5dd8</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-18 03:26:02</sys_created_on>
+        <sys_id>987a54ea83102a500ed57fdfeeaad3cc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Tablets.Order your Medicines</sys_name>
+        <sys_package display_value="Cipla" source="x_1449047_cipla">75a04c8a838862100ed57fdfeeaad39c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Cipla">75a04c8a838862100ed57fdfeeaad39c</sys_scope>
+        <sys_update_name>sc_cat_item_category_987a54ea83102a500ed57fdfeeaad3cc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-18 03:26:02</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Cipla">75a04c8a838862100ed57fdfeeaad39c</application>
+        <file_path/>
+        <instance_id>187c9ea7dbf53990199b172913961986</instance_id>
+        <instance_name>dev187962</instance_name>
+        <name>sc_cat_item_category_987a54ea83102a500ed57fdfeeaad3cc</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Order your Medicines">e50a5caa83102a500ed57fdfeeaad369</sc_cat_item><sc_category display_value="Tablets">b06546f23731300054b6a3549dbe5dd8</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-03-18 03:26:02</sys_created_on><sys_id>987a54ea83102a500ed57fdfeeaad3cc</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Tablets.Order your Medicines</sys_name><sys_package display_value="Cipla" source="x_1449047_cipla">75a04c8a838862100ed57fdfeeaad39c</sys_package><sys_policy/><sys_scope display_value="Cipla">75a04c8a838862100ed57fdfeeaad39c</sys_scope><sys_update_name>sc_cat_item_category_987a54ea83102a500ed57fdfeeaad3cc</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-03-18 03:26:02</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>-51879754</payload_hash>
+        <record_name>Tablets.Order your Medicines</record_name>
+        <reverted_from/>
+        <source>d8149c06830c62100ed57fdfeeaad341</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-18 03:26:02</sys_created_on>
+        <sys_id>587a94ea83102a500ed57fdfeeaad31b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>195a7496dad0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-18 03:26:02</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>5c7a94eab2102a50ca2c21e631e99f1a</update_guid>
+        <update_guid_history>5c7a94eab2102a50ca2c21e631e99f1a:-51879754</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Tablets.Order your Medicines">e4924f878354ea500ed57fdfeeaad3fd</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-20 04:57:33</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>0459de886a234e3081c2deb6222b9900</sys_id>
+        <sys_metadata>987a54ea83102a500ed57fdfeeaad3cc</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Tablets.Order your Medicines</sys_name>
+        <sys_package display_value="Cipla" source="x_1449047_cipla">75a04c8a838862100ed57fdfeeaad39c</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Cipla">75a04c8a838862100ed57fdfeeaad39c</sys_scope>
+        <sys_scope_delete display_value="">023a411d09c945c98010f3da3d861499</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_987a54ea83102a500ed57fdfeeaad3cc</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_987a54ea83102a500ed57fdfeeaad3cc">587a94ea83102a500ed57fdfeeaad31b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-20 04:57:33</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
